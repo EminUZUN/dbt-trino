@@ -1,0 +1,7 @@
+kind: Fixes
+body: Include comments of sources or models from other catalogs in catalog.json artifact
+time: 2023-02-14T15:58:11.921169856+03:00
+custom:
+  Author: eminuzun
+  Issue: "228"
+  PR: "229"
